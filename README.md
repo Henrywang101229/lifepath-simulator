@@ -1,3 +1,7 @@
+## Live Demo
+
+https://henrywang101229.github.io/lifepath-simulator/
+
 # LifePath Simulator
 
 LifePath Simulator is a browser-based life simulation game built with HTML, CSS, and JavaScript.
