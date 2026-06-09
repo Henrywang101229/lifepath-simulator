@@ -18,3 +18,21 @@ I modified:
 - The project name.
 - The starting stats.
 - The button system.
+
+2026-06-08
+
+Today I improved the birth background system.
+
+I added four different starting backgrounds:
+- Normal family
+- Education-focused family
+- Financial pressure family
+- Immigrant family
+
+I learned:
+- JavaScript objects can store character data.
+- A function can use a parameter to choose different data.
+- Different buttons can call the same function with different values.
+
+Today's feature:
+Players can now choose from four birth backgrounds, and each background has different starting stats.
